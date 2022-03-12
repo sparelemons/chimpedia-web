@@ -7,7 +7,7 @@
         <div class="flex-shrink-0 mr-5">
           <!-- Logo -->
           <router-link to="/" class="block" aria-label="Cruip">
-            <img :src="require('@/images/geckopedia-logo.png')" width="50" alt="Geckopedia" aria-hidden="true" />
+            <img :src="require('@/images/the-achromatic.jpeg')" width="50" alt="Chimpedia" aria-hidden="true" />
           </router-link>
         </div>
 

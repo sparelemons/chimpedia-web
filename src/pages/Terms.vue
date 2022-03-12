@@ -95,7 +95,7 @@
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 We may update our Terms and Conditions from time to time. Thus, you are advised to review this
                 page periodically for any changes. We will notify you of any changes by posting the new Terms
-                and Conditions on this page. These terms and conditions are effective as of <b>2021-09-30</b>.
+                and Conditions on this page. These terms and conditions are effective as of <b>2022-03-12</b>.
               </p>
             </div>
 

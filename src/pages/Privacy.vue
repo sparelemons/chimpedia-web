@@ -21,7 +21,7 @@
 
             <div class="max-w-3xl" data-aos="fade-down">
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                Spare Lemons built the Geckopedia app as a free app.
+                Spare Lemons built the Chimpedia app as a free app.
                 This service is provided by Spare Lemons at no cost and is intended for use as is.
                 This page is used to inform visitors regarding our policies with the collection, use, and
                 disclosure of Personal Information if anyone decided to use our Service.
@@ -56,7 +56,7 @@
             <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
               <h4 class="h4">Log Data</h4>
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                Whenever you use Geckopedia, the app creates and stores log data on your phone. This Log Data
+                Whenever you use Chimpedia, the app creates and stores log data on your phone. This Log Data
                 includes information about app usage (buttons being clicked, data being created, etc) and
                 information related to errors, abnormal events, and other such data that may be useful during debugging.
                 The log data <b>never</b> contains personally identifiable information.
@@ -81,7 +81,7 @@
             <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
               <h4 class="h4">Links to Other Sites</h4>
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
-                The Geckopedia website or app may contain links to other sites. If you click on a third-party
+                The Chimpedia website or app may contain links to other sites. If you click on a third-party
                 link, you will be directed to that site. Note that these external sites are not operated by us.
                 Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no
                 control over and assume no responsibility for the content, privacy policies, or practices of
@@ -105,7 +105,7 @@
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 We may update our Privacy Policy from time to time. Thus, you are advised to review this
                 page periodically for any changes. We will notify you of any changes by posting the new
-                Privacy Policy on this page. This policy is effective as of 2021-09-30.
+                Privacy Policy on this page. This policy is effective as of 2022-03-12.
               </p>
             </div>
 
@@ -114,7 +114,7 @@
               <p class="text-xl text-gray-600 dark:text-gray-400 pb-4">
                 We may update our Privacy Policy from time to time. Thus, you are advised to review this
                 page periodically for any changes. We will notify you of any changes by posting the new
-                Privacy Policy on this page. This policy is effective as of 2021-09-30.
+                Privacy Policy on this page. This policy is effective as of 2022-03-12.
               </p>
             </div>
 
