@@ -28,6 +28,13 @@
             </div>
 
             <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
+              <h4 class="h4">How do I add the Chimpedia home screen widget?</h4>
+              <p class="text-xl text-gray-600 dark:text-gray-400">
+                Follow <a target="_blank" href="https://support.apple.com/en-us/HT207122">these instructions</a> and search for the Chimpedia widget.
+              </p>
+            </div>
+
+            <div class="max-w-3xl pt-8 md:pt-6" data-aos="fade-down">
               <h4 class="h4">What exactly are The Chimpions?</h4>
               <p class="text-xl text-gray-600 dark:text-gray-400">
                 The Chimpions are an NFT collection of 222 hand-drawn chimps. Learn more at:
